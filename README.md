@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishek Singh
 - 👀 I’m interested in Problem Solving (DSA)
 - 🌱 I’m currently learning MERN Stack
-- 📫 Anyone can reach me at-"abhishek.111003@gmail.com"
+- 📫 Anyone can reach out to me at-"abhishek.111003@gmail.com"
 
 
 <!---
